@@ -193,6 +193,6 @@ On obtient avec le dataset **breast_cancer** de sklearn.
 |       2 | 0.023 |     0.924 |    0.910 |
 |       1 | 0.304 |     0.619 |    0.644 |
 
-Ca a l'air de marcher !
+Ca a l'air de marcher ! Plus grand chose à vous montrer sur le pruning, pas d'optimisation qui semble necessaire, tout va suffisament vite à mon goût.
 
 
