@@ -6,6 +6,6 @@ J'ai regoupé les étapes pour que ce soit un minimum clair et si jamais je veux
 
 + [Partie 1](1_Construction/Readme.md) : Construction de l'arbre maximum
 + [Partie 2](2_Opti/Readme.md) : Optimisation de la construction
-+ [Partie 3](2_Pruning/Readme.md) : Pruning de l'arbre maximum
++ [Partie 3](3_Pruning/Readme.md) : Pruning de l'arbre maximum
 
 https://stats.stackexchange.com/questions/193538/how-to-choose-alpha-in-cost-complexity-pruning

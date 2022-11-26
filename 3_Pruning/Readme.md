@@ -182,13 +182,17 @@ class CartTree:
 
 On devrait être bon avec tout ca ! Regardons ca avec `test.py`:
 
-**Output test.py**
+On obtient avec le dataset **breast_cancer** de sklearn.
 
-| nb_leaf | alpha | Acc Train | Acc test |
-| ------: | ----: | --------: | -------: |
+| nb_leaf  | alpha | Acc Train | Acc test |
+| --: | --: | --: | --: |
 |      17 | 0.000 |     1.000 |    0.920 |
 |      11 | 0.002 |     0.992 |    0.931 |
 |      10 | 0.005 |     0.990 |    0.936 |
 |       4 | 0.013 |     0.940 |    0.904 |
 |       2 | 0.023 |     0.924 |    0.910 |
 |       1 | 0.304 |     0.619 |    0.644 |
+
+Ca a l'air de marcher !
+
+
